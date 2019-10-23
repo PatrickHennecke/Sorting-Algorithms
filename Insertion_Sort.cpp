@@ -1,4 +1,4 @@
-// 1.1-1.cpp : This fail is an implementation of insertion sort algorithm
+// Insertion_Sort.cpp : This file is an implementation of insertion sort algorithm
 //
 
 #include <iostream>
